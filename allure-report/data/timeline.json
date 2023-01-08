@@ -1,0 +1,96 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "Moderator Uygulamaya Giris Yapabiliyor mu?",
+    "uid" : "9cf3254cb12a61e6",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1673170922806,
+      "stop" : 1673170937348,
+      "duration" : 14542
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Moderator Uygulamaya Giris Yapabiliyor mu?",
+    "uid" : "a55f844827cb16f7",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1673169765898,
+      "stop" : 1673169783656,
+      "duration" : 17758
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Moderator Uygulamaya Giris Yapabiliyor mu?",
+    "uid" : "f0427b04ea9fa5ef",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "failed",
+    "time" : {
+      "start" : 1673201181575,
+      "stop" : 1673201187084,
+      "duration" : 5509
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Moderator Uygulamaya Giris Yapabiliyor mu?",
+    "uid" : "41dd7201c1b3178e",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "failed",
+    "time" : {
+      "start" : 1673171422817,
+      "stop" : 1673171425864,
+      "duration" : 3047
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Moderator Uygulamaya Giris Yapabiliyor mu?",
+    "uid" : "729f1627029e4785",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1673169640548,
+      "stop" : 1673169654966,
+      "duration" : 14418
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Moderator Uygulamaya Giris Yapabiliyor mu?",
+    "uid" : "34e6541126459c6f",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1673170856047,
+      "stop" : 1673170875392,
+      "duration" : 19345
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Moderator Uygulamaya Giris Yapabiliyor mu?",
+    "uid" : "8645b6fa27a3e340",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1673201288333,
+      "stop" : 1673201305829,
+      "duration" : 17496
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  } ]
+}

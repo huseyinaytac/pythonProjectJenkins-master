@@ -1,0 +1,18 @@
+{
+  "uid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+  "name" : "packages",
+  "children" : [ {
+    "name" : "Moderator Uygulamaya Giris Yapabiliyor mu?",
+    "uid" : "8645b6fa27a3e340",
+    "parentUid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+    "status" : "passed",
+    "time" : {
+      "start" : 1673201288333,
+      "stop" : 1673201305829,
+      "duration" : 17496
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  } ]
+}

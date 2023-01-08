@@ -1,0 +1,60 @@
+{
+  "a38adb6f26be6914d8a992318b31213a" : {
+    "statistic" : {
+      "failed" : 2,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 4,
+      "unknown" : 0,
+      "total" : 6
+    },
+    "items" : [ {
+      "uid" : "8645b6fa27a3e340",
+      "reportUrl" : "http://localhost:9090/job/python-selenium/23/allure/#testresult/8645b6fa27a3e340",
+      "status" : "passed",
+      "time" : {
+        "start" : 1673201288333,
+        "stop" : 1673201305829,
+        "duration" : 17496
+      }
+    }, {
+      "uid" : "9197c0b09bb446c5",
+      "reportUrl" : "http://localhost:9090/job/python-selenium/22/allure/#testresult/9197c0b09bb446c5",
+      "status" : "failed",
+      "statusDetails" : "AssertionError\n",
+      "time" : {
+        "start" : 1673201181575,
+        "stop" : 1673201187084,
+        "duration" : 5509
+      }
+    }, {
+      "uid" : "3f39a9d45b7fb339",
+      "reportUrl" : "http://localhost:9090/job/python-selenium/21/allure/#testresult/3f39a9d45b7fb339",
+      "status" : "failed",
+      "statusDetails" : "AssertionError\n",
+      "time" : {
+        "start" : 1673171422817,
+        "stop" : 1673171425864,
+        "duration" : 3047
+      }
+    }, {
+      "uid" : "ba73db56416b4de6",
+      "reportUrl" : "http://localhost:9090/job/python-selenium/20/allure/#testresult/ba73db56416b4de6",
+      "status" : "passed",
+      "time" : {
+        "start" : 1673170922806,
+        "stop" : 1673170937348,
+        "duration" : 14542
+      }
+    }, {
+      "uid" : "14150dff7b2abb85",
+      "reportUrl" : "http://localhost:9090/job/python-selenium/19/allure/#testresult/14150dff7b2abb85",
+      "status" : "passed",
+      "time" : {
+        "start" : 1673170856047,
+        "stop" : 1673170875392,
+        "duration" : 19345
+      }
+    } ]
+  }
+}

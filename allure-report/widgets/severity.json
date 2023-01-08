@@ -1,0 +1,11 @@
+[ {
+  "uid" : "8645b6fa27a3e340",
+  "name" : "Moderator Uygulamaya Giris Yapabiliyor mu?",
+  "time" : {
+    "start" : 1673201288333,
+    "stop" : 1673201305829,
+    "duration" : 17496
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

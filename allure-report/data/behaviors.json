@@ -1,0 +1,22 @@
+{
+  "uid" : "b1a8273437954620fa374b796ffaacdd",
+  "name" : "behaviors",
+  "children" : [ {
+    "name" : "Moderator Kullanici Uygulamaya giris yapabilmelidir.",
+    "children" : [ {
+      "name" : "Moderator Uygulamaya Giris Yapabiliyor mu?",
+      "uid" : "8645b6fa27a3e340",
+      "parentUid" : "37780af2beda621b8086b5e3c56ee1ea",
+      "status" : "passed",
+      "time" : {
+        "start" : 1673201288333,
+        "stop" : 1673201305829,
+        "duration" : 17496
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "37780af2beda621b8086b5e3c56ee1ea"
+  } ]
+}

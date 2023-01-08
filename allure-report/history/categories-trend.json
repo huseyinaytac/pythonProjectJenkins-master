@@ -1,0 +1,35 @@
+[ {
+  "buildOrder" : 23,
+  "reportUrl" : "http://localhost:9090/job/python-selenium/23/allure",
+  "reportName" : "AllureReport",
+  "data" : { }
+}, {
+  "buildOrder" : 22,
+  "reportUrl" : "http://localhost:9090/job/python-selenium/22/allure",
+  "reportName" : "AllureReport",
+  "data" : {
+    "Product defects" : 1
+  }
+}, {
+  "buildOrder" : 21,
+  "reportUrl" : "http://localhost:9090/job/python-selenium/21/allure",
+  "reportName" : "AllureReport",
+  "data" : {
+    "Product defects" : 1
+  }
+}, {
+  "buildOrder" : 20,
+  "reportUrl" : "http://localhost:9090/job/python-selenium/20/allure",
+  "reportName" : "AllureReport",
+  "data" : { }
+}, {
+  "buildOrder" : 19,
+  "reportUrl" : "http://localhost:9090/job/python-selenium/19/allure",
+  "reportName" : "AllureReport",
+  "data" : { }
+}, {
+  "buildOrder" : 18,
+  "reportUrl" : "http://localhost:9090/job/python-selenium/18/allure",
+  "reportName" : "AllureReport",
+  "data" : { }
+} ]
